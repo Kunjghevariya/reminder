@@ -42,7 +42,7 @@ useEffect(() => {
         </div>
         <div className="">
           <div className="miniutes bg-white text-black">{parseInt(miniute)}</div>
-          <h2>minite</h2>
+          <h2>minute</h2>
         </div>
         <div className="">
           <div className="second bg-white text-black">{parseInt(second)}</div>
