@@ -10,7 +10,7 @@ const App = () => {
     { name: "Matko 🛢️", reminde: "birthday", date: "19 Sept 2025", desc: "happy birthday" },
     { name: "Pekko 🤖", reminde: "birthday", date: "1 Sept 2025", desc: "happy birthday" },
     { name: "Tikadi 💊", reminde: "birthday", date: "26 Jan 2026", desc: "happy birthday" },
-    { name: "Kondo 🔫🥸", reminde: "birthday", date: "12 Jan 2025", desc: "happy birthday" },
+    { name: "Kondo 🔫🥸", reminde: "birthday", date: "12 Jan 2026", desc: "happy birthday" },
     { name: "Vedu 😎", reminde: "birthday", date: "17 Nov 2025", desc: "happy birthday" },
     { name: "Divlo 👩‍⚕️", reminde: "birthday", date: "08 Sept 2025", desc: "happy birthday" },
     { name: "Nado 😤", reminde: "birthday", date: "28 April 2025", desc: "happy birthday" },
